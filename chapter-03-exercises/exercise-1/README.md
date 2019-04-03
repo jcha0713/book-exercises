@@ -17,5 +17,5 @@ In this exercise you'll practice using git to clone and edit repositories, as wi
 
 - noodle
 - rice
-- 1
-- 2
+- egg
+- bacon
